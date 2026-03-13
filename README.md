@@ -12,5 +12,13 @@ Aprendendo na prática como transformar ideias em interfaces. Atualmente estou d
 - Frontend Development e Python para análise de dados.
 
 ---
+## Tools 🪄
+Tecnologias e ferramentas que utilizo na minha jornada na programação: Com elas eu estudo, desenvolvo projetos e continuo evoluindo como desenvolvedora. Cada tecnologia representa um passo no meu aprendizado e na construção das minhas habilidades.
 
+### Languages & Technologies
+<p>
+<img src="readme-python.png" width="40"/>
+<img src="readme-html.png" width="40"/>
+<img src="readme-css.png" width="40"/>
+</p>
 
