@@ -1,0 +1,16 @@
+<svg viewBox="0 0 1440 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pinkGradient" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="5%" stop-color="#e89ba9"/>
+      <stop offset="95%" stop-color="#eba4b1"/>
+    </linearGradient>
+  </defs>
+
+  <path fill="url(#pinkGradient)" fill-opacity="0.4"
+    d="M0,160C120,180,240,200,360,200C480,200,600,180,720,160C840,140,960,120,1080,120C1200,120,1320,140,1440,160L1440,0L0,0Z">
+  </path>
+
+  <path fill="url(#pinkGradient)" fill-opacity="0.9"
+    d="M0,200C120,220,240,240,360,240C480,240,600,220,720,200C840,180,960,160,1080,160C1200,160,1320,180,1440,200L1440,0L0,0Z">
+  </path>
+</svg>
