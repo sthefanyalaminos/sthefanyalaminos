@@ -36,4 +36,4 @@ Tecnologias e ferramentas que utilizo na minha jornada na programação: Com ela
 
 ---
 ### Connect with me ✉️
-- Para entrar em contato diretamente comigo, 
+- Para entrar em contato diretamente comigo, [clique aqui!](malito:alaminossthefany2@gmail.com)
