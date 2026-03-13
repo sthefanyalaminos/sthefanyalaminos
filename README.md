@@ -17,8 +17,13 @@ Tecnologias e ferramentas que utilizo na minha jornada na programação: Com ela
 
 ### Languages & Technologies
 <p>
-<img src="readme-python.png" width="40"/>
-<img src="readme-html.png" width="40"/>
-<img src="readme-css.png" width="40"/>
+<img src="readme-python.png" width="60"/>
+<img src="readme-html.png" width="60"/>
+<img src="readme-css.png" width="60"/>
 </p>
 
+### IDEs
+<p>
+<img src="readme-vs.png" width="60">
+<img src="readme-pycharm.png" width="60">
+</p>
