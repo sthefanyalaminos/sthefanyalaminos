@@ -8,8 +8,9 @@
 
 Aprendendo na prática como transformar ideias em interfaces. Atualmente estou desenvolvendo projetos voltados para web e análise de dados, descobrindo aos poucos em qual área pretendo me especializar.
 - Estudante de Análise e Desenvolvimento de Sistemas ∙ Mackenzie.
-- Interessada em desenvolvimento, programação e tecnologia.
+- Interessada em programação e tecnologia.
 - Frontend Development e Python para análise de dados.
+- Idiomas: Português (nativo) • Inglês (avançado) • Espanhol (intermediário).
 
 ---
 ## Tools 🪄
