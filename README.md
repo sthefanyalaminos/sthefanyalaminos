@@ -6,7 +6,7 @@
 # Oi! Eu sou Sthefany Alaminos 💫
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E89BA9&width=435&lines=I'm+a+Software+Development+Student;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-Aprendendo na prática como transformar ideias em interfaces. Atualmente estou desenvolvendo projetos voltados para web e análise de dados, descobrindo aos poucos em qual área pretendo me especializar.
+Aprendendo na prática como transformar ideias em interfaces! Atualmente estou desenvolvendo projetos voltados para web e análise de dados, descobrindo aos poucos em qual área pretendo me especializar.
 - Estudante de Análise e Desenvolvimento de Sistemas ∙ Mackenzie.
 - Interessada em programação e tecnologia.
 - Frontend Development e Python para análise de dados.
@@ -14,7 +14,7 @@ Aprendendo na prática como transformar ideias em interfaces. Atualmente estou d
 
 ---
 ## Tools 🪄
-Tecnologias e ferramentas que utilizo na minha jornada na programação: Com elas eu estudo, desenvolvo projetos e continuo evoluindo como desenvolvedora. Cada tecnologia representa um passo no meu aprendizado e na construção das minhas habilidades.
+Tecnologias e ferramentas que utilizo na minha jornada na programação. Cada tecnologia representa um passo no meu aprendizado e na construção das minhas habilidades,  com elas eu estudo, construo projetos e evoluo como desenvolvedora.
 
 ### Languages & Technologies
 <p>
