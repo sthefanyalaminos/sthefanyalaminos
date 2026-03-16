@@ -37,6 +37,7 @@ Tecnologias e ferramentas que utilizo na minha jornada na programação. Cada te
 
 ---
 ### Connect with me ✉️
+- Para acessar meu perfil no LinkedIn, [clique aqui!](www.linkedin.com/in/sthefany-alaminos)
 - Para entrar em contato diretamente comigo, [clique aqui!](mailto:alaminossthefany2@gmail.com)
 
 ---
