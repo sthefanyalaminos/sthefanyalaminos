@@ -2,6 +2,10 @@
    <img src="./wave.svg" width="100%">
 </p>
 
+<div align="right">
+    <a href="https://github.com/sthefanyalaminos/sthefanyalaminos/blob/main/README.md">Translate to Portuguese</a>
+</div>
+
 # Hi! I'm Sthefany Alaminos 💫
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E89BA9&width=435&lines=I'm+a+Software+Development+Student;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
