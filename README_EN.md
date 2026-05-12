@@ -21,9 +21,10 @@ Technologies and tools I use in my programming journey. Each technology represen
 
 ### Languages & Technologies
 <p>
-<img src="readme-python.png" width="60"/>
+<img src="readme-javascript.png" width="60"/>
 <img src="readme-html.png" width="60"/>
 <img src="readme-css.png" width="60"/>
+<img src="readme-python.png" width="60"/>
 </p>
 
 ### IDEs
