@@ -22,9 +22,10 @@ Tecnologias e ferramentas que utilizo na minha jornada na programação. Cada te
 
 ### Languages & Technologies
 <p>
-<img src="readme-python.png" width="60"/>
+<img src="readme-javascript.png" width="60"/>
 <img src="readme-html.png" width="60"/>
 <img src="readme-css.png" width="60"/>
+<img src="readme-python.png" width="60"?>
 </p>
 
 ### IDEs
