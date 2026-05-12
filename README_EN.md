@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="./wave.svg" width="100%">
+   <img src="images/wave.svg" width="100%">
 </p>
 
 <div align="right">
@@ -21,16 +21,16 @@ Technologies and tools I use in my programming journey. Each technology represen
 
 ### Languages & Technologies
 <p>
-<img src="readme-javascript.png" width="60"/>
-<img src="readme-html.png" width="60"/>
-<img src="readme-css.png" width="60"/>
-<img src="readme-python.png" width="60"/>
+<img src="images/readme-javascript.png" width="60"/>
+<img src="images/readme-html.png" width="60"/>
+<img src="images/readme-css.png" width="60"/>
+<img src="images/readme-python.png" width="60"/>
 </p>
 
 ### IDEs
 <p>
-<img src="readme-vs.png" width="60">
-<img src="readme-pycharm.png" width="60">
+<img src="images/readme-vs.png" width="60">
+<img src="images/readme-pycharm.png" width="60">
 </p>
 
 ---
