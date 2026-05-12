@@ -35,12 +35,6 @@ Tecnologias e ferramentas que utilizo na minha jornada na programação. Cada te
 </p>
 
 ---
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=sthefanyalaminos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sthefanyalaminos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph">
-</div>
-
----
 ### Connect with me ✉️
 - Para acessar meu perfil no LinkedIn, [clique aqui!](www.linkedin.com/in/sthefany-alaminos)
 - Para entrar em contato diretamente comigo, [clique aqui!](mailto:alaminossthefany2@gmail.com)
